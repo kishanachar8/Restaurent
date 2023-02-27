@@ -1,0 +1,16 @@
+.home{
+    background-color: #303030;
+}
+.home div{
+    background-color: #303030;
+    color: white;
+    display: inline-block;
+    margin: 30px;
+}
+.home img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.h1{
+    color: #FFB448;
+}
